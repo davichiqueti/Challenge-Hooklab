@@ -8,4 +8,4 @@ Minha experiência com Python para dados e minha experiência trabalhando em um 
 ## Índice
 * [PDF Com Instruções](https://github.com/davichiqueti/Desafio-HookLab/blob/main/desafio_hooklab.pdf)
 * [Resolução](https://github.com/davichiqueti/Desafio-HookLab/blob/main/Resolução.ipynb)
-* [Graficos Gerados e Dados Extraídos]((https://github.com/davichiqueti/Desafio-HookLab/blob/main/Graficos&Dados))
+* [Graficos Gerados e Dados Extraídos](https://github.com/davichiqueti/Desafio-HookLab/blob/main/Graficos&Dados)
