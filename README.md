@@ -7,5 +7,5 @@ O meu aprendizado em Python para dados com a Data Science Academy aliado de minh
 
 ## Índice
 * [PDF Com Instruções](https://github.com/davichiqueti/Desafio-HookLab/blob/main/desafio_hooklab.pdf)
-* [Resolução](https://github.com/davichiqueti/Desafio-HookLab/blob/main/Resolução.ipynb)
+* [Resolução](https://github.com/davichiqueti/Desafio-HookLab/blob/main/Respostas-Notebook.ipynb)
 * [Graficos Gerados e Dados Extraídos](https://github.com/davichiqueti/Desafio-HookLab/blob/main/Graficos&Dados)
